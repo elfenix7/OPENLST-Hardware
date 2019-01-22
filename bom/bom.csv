@@ -72,7 +72,7 @@ Reference, Value, Footprint, Datasheet, Manuf, ManufPN, Supplier, SupplierPN
 "C20","10u","Capacitor_SMD:C_0603_1608Metric","http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT188C81A106ME13-01.pdf","Murata","GRT188C81A106ME13D","Digikey","490-12283-1-ND"
 "L8","Z=1k @ 100M","Inductor_SMD:L_0603_1608Metric","http://katalog.we-online.de/pbs/datasheet/74279266.pdf","Wurth","74279266","Digikey","732-4484-1-ND"
 "L3","Z=1k @ 100M","Inductor_SMD:L_0603_1608Metric","http://katalog.we-online.de/pbs/datasheet/74279266.pdf","Wurth","74279266","Digikey","732-4484-1-ND"
-"J5","Control Outputs","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical",""
+"J5","Control Outputs","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","", , , ,
 "R14","100","Resistor_SMD:R_0603_1608Metric","http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-AC_51_RoHS_L_6.pdf","Yageo","AC0603FR-07100RL","Digikey","YAG3561CT-ND"
 "R13","100","Resistor_SMD:R_0603_1608Metric","http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-AC_51_RoHS_L_6.pdf","Yageo","AC0603FR-07100RL","Digikey","YAG3561CT-ND"
 "U8","STA1120A","openlst:SAW-8_3.8mm","","Sawtron","STA1120A","",""
