@@ -45,15 +45,15 @@ Reference, Value, Footprint, Datasheet, Manuf, ManufPN, Supplier, SupplierPN
 "R17","100","Resistor_SMD:R_0603_1608Metric","http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-AC_51_RoHS_L_6.pdf","Yageo","AC0603FR-07100RL","Digikey","YAG3561CT-ND"
 "C23","3.9p","Capacitor_SMD:C_0402_1005Metric","http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GJM1555C1H3R9CB01-01.pdf","Murata","GJM1555C1H3R9CB01D","Digikey","490-3097-1-ND"
 "C27","0.1u","Capacitor_SMD:C_0603_1608Metric","http://datasheets.avx.com/AutoMLCC.pdf","AVX","0603YC104K4T4A","Digikey","478-9382-1-ND"
-"R15","DNI","Resistor_SMD:R_0603_1608Metric",""
+"R15","DNI","Resistor_SMD:R_0603_1608Metric","", , , , ,
 "D1","LED","LED_SMD:LED_0603_1608Metric","http://katalog.we-online.de/led/datasheet/150060VS75000.pdf","Wurth","150060VS75000","Digikey","732-4980-1-ND"
 "R3","1K","Resistor_SMD:R_0603_1608Metric","http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf","Yageo","RC0603JR-071KL","Digikey","311-1.0KGRCT-ND"
 "D2","LED","LED_SMD:LED_0603_1608Metric","http://katalog.we-online.de/led/datasheet/150060SS75000.pdf","Wurth","150060SS75000","Digikey","732-4979-1-ND"
 "R4","1K","Resistor_SMD:R_0603_1608Metric","http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf","Yageo","RC0603JR-071KL","Digikey","311-1.0KGRCT-ND"
 "J3","UART0","Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical","http://katalog.we-online.de/em/datasheet/6130xx11121.pdf","Wurth","61300611121","Digikey","732-5319-ND"
-"R19","DNI","Resistor_SMD:R_0603_1608Metric",""
+"R19","DNI","Resistor_SMD:R_0603_1608Metric","", , , , ,
 "J4","UART1","Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical","http://katalog.we-online.de/em/datasheet/6130xx11121.pdf","Wurth","61300611121","Digikey","732-5319-ND"
-"R20","DNI","Resistor_SMD:R_0603_1608Metric",""
+"R20","DNI","Resistor_SMD:R_0603_1608Metric","", , , , ,
 "C1","0.1u","Capacitor_SMD:C_0603_1608Metric","http://datasheets.avx.com/AutoMLCC.pdf","AVX","0603YC104K4T4A","Digikey","478-9382-1-ND"
 "C10","0.1u","Capacitor_SMD:C_0603_1608Metric","http://datasheets.avx.com/AutoMLCC.pdf","AVX","0603YC104K4T4A","Digikey","478-9382-1-ND"
 "C2","220p","Capacitor_SMD:C_0402_1005Metric","https://api.kemet.com/component-edge/download/datasheet/C0402C221J2GACAUTO.pdf","Kemet","C0402C221J2GACAUTO","Digikey","399-11552-1-ND"
@@ -76,13 +76,13 @@ Reference, Value, Footprint, Datasheet, Manuf, ManufPN, Supplier, SupplierPN
 "R14","100","Resistor_SMD:R_0603_1608Metric","http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-AC_51_RoHS_L_6.pdf","Yageo","AC0603FR-07100RL","Digikey","YAG3561CT-ND"
 "R13","100","Resistor_SMD:R_0603_1608Metric","http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-AC_51_RoHS_L_6.pdf","Yageo","AC0603FR-07100RL","Digikey","YAG3561CT-ND"
 "U8","STA1120A","openlst:SAW-8_3.8mm","","Sawtron","STA1120A","",""
-"R25","DNI","Resistor_SMD:R_0603_1608Metric",""
+"R25","DNI","Resistor_SMD:R_0603_1608Metric","", , , , ,
 "R27","33K","Resistor_SMD:R_0603_1608Metric","http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-AC_51_RoHS_L_6.pdf","Yageo","AC0603FR-0733KL","Digikey","YAG3598CT-ND"
 "C6","0.1u","Capacitor_SMD:C_0603_1608Metric","http://datasheets.avx.com/AutoMLCC.pdf","AVX","0603YC104K4T4A","Digikey","478-9382-1-ND"
 "C8","0.1u","Capacitor_SMD:C_0603_1608Metric","http://datasheets.avx.com/AutoMLCC.pdf","AVX","0603YC104K4T4A","Digikey","478-9382-1-ND"
 "U9","RFFM6403","openlst:Qorvo_LGA_28_ThermalVias","https://www.qorvo.com/products/d/da000805","Qorvo","RFFM6403SB","",""
 "MK1","M3_Hole","MountingHole:MountingHole_3.2mm_M3_Pad_Via",""
-"R29","DNI","Resistor_SMD:R_0603_1608Metric",""
+"R29","DNI","Resistor_SMD:R_0603_1608Metric","", , , , , 
 "R31","DNI","Resistor_SMD:R_0603_1608Metric",""
 "MK3","M3_Hole","MountingHole:MountingHole_3.2mm_M3_Pad_Via",""
 "MK2","M3_Hole","MountingHole:MountingHole_3.2mm_M3_Pad_Via",""
