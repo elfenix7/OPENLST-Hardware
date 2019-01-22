@@ -81,11 +81,11 @@ Reference, Value, Footprint, Datasheet, Manuf, ManufPN, Supplier, SupplierPN
 "C6","0.1u","Capacitor_SMD:C_0603_1608Metric","http://datasheets.avx.com/AutoMLCC.pdf","AVX","0603YC104K4T4A","Digikey","478-9382-1-ND"
 "C8","0.1u","Capacitor_SMD:C_0603_1608Metric","http://datasheets.avx.com/AutoMLCC.pdf","AVX","0603YC104K4T4A","Digikey","478-9382-1-ND"
 "U9","RFFM6403","openlst:Qorvo_LGA_28_ThermalVias","https://www.qorvo.com/products/d/da000805","Qorvo","RFFM6403SB","",""
-"MK1","M3_Hole","MountingHole:MountingHole_3.2mm_M3_Pad_Via",""
+"MK1","M3_Hole","MountingHole:MountingHole_3.2mm_M3_Pad_Via","", , , ,
 "R29","DNI","Resistor_SMD:R_0603_1608Metric","", , , , 
 "R31","DNI","Resistor_SMD:R_0603_1608Metric","", , , ,
-"MK3","M3_Hole","MountingHole:MountingHole_3.2mm_M3_Pad_Via",""
-"MK2","M3_Hole","MountingHole:MountingHole_3.2mm_M3_Pad_Via",""
+"MK3","M3_Hole","MountingHole:MountingHole_3.2mm_M3_Pad_Via","", , , ,
+"MK2","M3_Hole","MountingHole:MountingHole_3.2mm_M3_Pad_Via","", , , ,
 "R30","DNI","Resistor_SMD:R_0603_1608Metric","", , , ,
 "R32","DNI","Resistor_SMD:R_0603_1608Metric","", , , ,
-"MK4","M3_Hole","MountingHole:MountingHole_3.2mm_M3_Pad_Via",""
+"MK4","M3_Hole","MountingHole:MountingHole_3.2mm_M3_Pad_Via","", , , ,
