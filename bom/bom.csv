@@ -10,7 +10,7 @@ Reference, Value, Footprint, Datasheet, Manuf, ManufPN, Supplier, SupplierPN
 "C4","10u","Capacitor_SMD:C_0603_1608Metric","http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT188C81A106ME13-01.pdf","Murata","GRT188C81A106ME13D","Digikey","490-12283-1-ND"
 "C13","10u","Capacitor_SMD:C_0603_1608Metric","http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT188C81A106ME13-01.pdf","Murata","GRT188C81A106ME13D","Digikey","490-12283-1-ND"
 "C15","0.1u","Capacitor_SMD:C_0603_1608Metric","http://datasheets.avx.com/AutoMLCC.pdf","AVX","0603YC104K4T4A","Digikey","478-9382-1-ND"
-"J1","5VDC","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical",""
+"J1","5VDC","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","", , , 
 "D3","STPS340U","Diode_SMD:D_SMB","http://www.st.com/content/ccc/resource/technical/document/datasheet/bb/db/21/0c/04/d9/41/a5/CD00000844.pdf/files/CD00000844.pdf/jcr:content/translations/en.CD00000844.pdf","STMicroelectronics","STPS340U","Digikey","497-2465-1-ND"
 "L2","Z=500 @ 100M","Inductor_SMD:L_1206_3216Metric","https://assets.lairdtech.com/home/brandworld/files/MI1206L501R-10.pdf","Laird","MI1206L501R-10","Digikey","240-2407-1-ND"
 "C14","100u","Capacitor_Tantalum_SMD:CP_EIA-3528-15_AVX-H","http://datasheets.avx.com/TPS.pdf","AVX","TPSB107M010R0400","Digikey","478-5231-1-ND"
