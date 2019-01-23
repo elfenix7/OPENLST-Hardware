@@ -33,4 +33,4 @@ U4 ,1,"FOX924 27MHz","Oscillator:Oscillator_SMD_Fordahl_DFAS15-4Pin_5.0x3.2mm","
 U5 ,1,"TLV803S","Package_TO_SOT_SMD:SOT-23","http://www.ti.com/lit/ds/symlink/tlv803.pdf","Texas Instruments","TLV803SDBZR","Digikey","296-29196-1-ND"
 U6 ,1,"PE4259","Package_TO_SOT_SMD:SOT-363_SC-70-6","http://www.psemi.com/pdf/datasheets/pe4259ds.pdf","pSemi","4259-63","Digikey","1046-1011-1-ND"
 U8 ,1,"STA1120A","openlst:SAW-8_3.8mm","","Sawtron","STA1120A",",",  
-U9 ,1,"RFFM6403","openlst:Qorvo_LGA_28_ThermalVias","https://www.qorvo.com/products/d/da000805","Qorvo","RFFM6403SB",",", , 
+U9 ,1,"RFFM6403","openlst:Qorvo_LGA_28_ThermalVias","https://www.qorvo.com/products/d/da000805","Qorvo","RFFM6403SB",",", 
