@@ -12,7 +12,7 @@ J1 ,1,"5VDC","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","", , 
 J2 ,1,"CC Prog/Debug","Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD","http://suddendocs.samtec.com/prints/ftsh-1xx-xx-xxx-dv-xxx-xxx-mkt.pdf","Samtec","FTSH-105-01-L-DV-K-P","Digikey","SAM9076-ND"
 J3 ,1,"UART0","Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical","http://katalog.we-online.de/em/datasheet/6130xx11121.pdf","Wurth","61300611121","Digikey","732-5319-ND"
 J4 ,1,"UART1","Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical","http://katalog.we-online.de/em/datasheet/6130xx11121.pdf","Wurth","61300611121","Digikey","732-5319-ND"
-J5 ,1,"Control Outputs","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical",""
+J5 ,1,"Control Outputs","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","", , , , 
 J6 ,1,"ANT","Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal","https://www.molex.com/pdm_docs/sd/732511150_sd.pdf","Molex","732511150","Digikey","WM5534-ND"
 L2 ,1,"Z=500 @ 100M","Inductor_SMD:L_1206_3216Metric","https://assets.lairdtech.com/home/brandworld/files/MI1206L501R-10.pdf","Laird","MI1206L501R-10","Digikey","240-2407-1-ND"
 L5 L6 ,2,"27n","Inductor_SMD:L_0402_1005Metric","http://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0050.pdf","Murata","LQW15AN27NJ00D","Digikey","490-1151-1-ND"
